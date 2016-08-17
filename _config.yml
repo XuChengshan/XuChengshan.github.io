@@ -7,8 +7,8 @@ github: XuChengshan
 author: "徐成山"
 email: 2630517357@qq.com
 name: "徐成山的个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+url: https://xuchengshan.github.io/index
+domain: https://xuchengshan.github.io/index
 all_categories: [
 ["android", "Android开发","/posts/android.html"], 
 ["program", "软件编程","/posts/program.html"],
