@@ -21,7 +21,7 @@ all_categories: [
 
 paginate: 1
 paginate_path: "posts/page:num"
-timezone: east China -Beijing
+timezone: Asia/Shanghai
 
 collections:
   docs:
